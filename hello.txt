@@ -1,1 +1,3 @@
-hello there, this file was automatically generated
+hello there, this file was automatically generated.
+
+And updated automatically too
